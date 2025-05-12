@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center" style="color:red;">Bem-vindo ao meu GitHub! 🛡️</h1>
 
-<!--
-**chsn24/chsn24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/status-EM%20DESENVOLVIMENTO-red?style=for-the-badge&logo=github" alt="Status">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Linguagem-Java-black?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linguagem-HTML5-red?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linguagem-CSS3-black?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linguagem-SQL%20Server-red?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Sobre mim
+
+- 🎓 Estudante de [sua faculdade]
+- 💻 Foco atual: Desenvolvimento com Java e SQL Server
+- 🌐 Front-end: HTML e CSS
+- ⚙️ Sempre aprendendo algo novo!
+
+---
+
+### 📈 Estatísticas GitHub
+
+<p align="center
