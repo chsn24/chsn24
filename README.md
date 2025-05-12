@@ -8,15 +8,15 @@
   <img src="https://img.shields.io/badge/Linguagem-Java-black?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Linguagem-HTML5-red?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Linguagem-CSS3-black?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linguagem-SQL%20Server-red?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linguagem-SQL%20-red?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-- 🎓 Estudante de [sua faculdade]
-- 💻 Foco atual: Desenvolvimento com Java e SQL Server
+- 🎓 Estudante de ADS na FICR.
+- 💻 Foco atual: Desenvolvimento com Java e SQL 
 - 🌐 Front-end: HTML e CSS
 - ⚙️ Sempre aprendendo algo novo!
 
