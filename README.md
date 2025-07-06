@@ -10,7 +10,7 @@ Meu objetivo é desenvolver as principais competências para competir no mercado
 ## 🌐 Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiohenrique030805/)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-0A66C2?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581995715546/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-0A66C2?style=for-the-badge&logo=whatsapp&logoColor=green)](https://wa.me/5581995715546/)
 ---
 
 ## 🤖 Linguagens e Tecnologias
