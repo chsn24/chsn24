@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Caio Henrique
 
 Me chamo *Caio Henrique*, tenho 19 anos e sou natural do Nordeste, estado de Pernambuco.  
-Atualmente, estou cursando *Análise e Desenvolvimento de Sistemas* na Faculdade Imaculada Conceição do Recife (FICR).  
+Atualmente, estou cursando *Análise e Desenvolvimento de Sistemas* na Faculdade Católica Imaculada Conceição do Recife (FICR).  
 Sou apaixonado por tecnologia e compartilho meu conhecimento através desse repositório.  
 Meu objetivo é desenvolver as principais competências para competir no mercado de trabalho.
 
